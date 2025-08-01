@@ -1,0 +1,2 @@
+# OtsosOS
+Distribution Pidor OS
