@@ -12,6 +12,8 @@
 <img src="https://img.shields.io/badge/version-1.0-brightgreen.svg" alt="version 1.0">
 <img src="https://img.shields.io/badge/arch-x86%2016--bit-blueviolet.svg" alt="arch: x86 16-bit">
 
+[KillerGrass](https://t.me/kanal_kashkamalhika), [losos](https://t.me/furrylosos), [Findix](https://t.me/shizaFindika)
+
 <p align="center">
   <img src="img/logo.png" alt="LosOS Logo" />
 </p>
