@@ -1,5 +1,4 @@
-# Otsos OS
-
+# Los OS
 <a href="https://github.com/insert42/PidorOS/blob/main/LICENSE">
   <img src="https://img.shields.io/badge/license-GPLv3-blue.svg" alt="license: gpl v3">
 </a>
